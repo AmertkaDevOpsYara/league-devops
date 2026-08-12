@@ -51,5 +51,5 @@
 
 با ما همراه باشید و مهارت‌های خود را در میدان عمل به چالش بکشید.
 
-**Amertka DevOps League**
-**General Hassan Abshenasan Cup**
+**Amertka DevOps League -**
+**(General Hassan Abshenasan Cup)**
